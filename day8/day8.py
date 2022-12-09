@@ -1,5 +1,5 @@
 """
-O(n^2) solution for Advent of Code 2022 day 2
+O(n^2) solution day 8
 """
 
 from enum import Enum
