@@ -1,5 +1,5 @@
 """
-O(n^2) solution day 8
+O(n^2) solution for day 8 part 2
 """
 
 from enum import Enum
